@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/blackbird806/book/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## TurboEngine
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Duration : 6 months.  
+> Full sound implementation with Fmod, editor widgets, Debug system (custom logger, exceptions, stacktrace, ...),   
+work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding.  
 
-### Markdown
+<video width="720" height="400" controls>
+  <source src="Media/Videos/TurboEngine.mp4" type="video/mp4">
+</video>  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+<video width="720" height="400" controls>
+  <source src="Media/Videos/gameplay in editor.mp4" type="video/mp4">
+</video>
 
-```markdown
-Syntax highlighted code block
+![game screenShoot](Media/Screenshots/TurboEngine14.png)
+![game screenShoot](Media/Screenshots/TurboEngine13.jpg)
+![game screenShoot](Media/Screenshots/TurboEngine7.png)
+![game screenShoot](Media/Screenshots/TurboEngine6.png)
+![game screenShoot](Media/Screenshots/TurboEngine6.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Gladiator
+> Work on AI, player attack, UI.
 
-- Bulleted
-- List
+<video width="720" height="400" controls>
+  <source src="Media/Videos/HackNslash.mp4" type="video/mp4">
+</video>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Aether Ego
+> Work on field of views, Ghost controls / interactions, sound waves feature.
 
-[Link](url) and ![Image](src)
-```
+<video width="720" height="400" controls>
+  <source src="Media/Videos/Infiltration.mp4" type="video/mp4">
+</video>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## WinxFPS
+> Work on Full engine : Engine architecture, Rendering with openGL, custom math library, custom obj loader, ...
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blackbird806/book/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
