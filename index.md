@@ -3,9 +3,13 @@
 <br>
 
 ## TurboEngine
-> Duration: 6 months.  
-> Team: 4 programmers.  
-> Full sound implementation with Fmod, sound widgets (sound mixer, listenInEditor), Debug system (custom logger, exceptions, stacktrace, ...),   
+* Duration: 6 months.  
+* Team: 4 programmers.  
+> A full featured game engine with editor, built with Qt, OpenGL, PhysX, Fmod, ...  
+> Features: C++ scripting with hotReload, lua scripting, 3D spatialized sound support, PBR rendering, particles systems, rigidbodies, project save, ...
+
+__My work:__  
+Full sound implementation with Fmod, sound widgets (sound mixer listenInEditor), Debug system (custom logger, exceptions, stacktrace, ...),   
 work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYD-geeUGvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,25 +41,41 @@ work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding
 ---
 
 ## Gladiator
-> Duration: 3 weeks.
-> Team: 2 programmers.
-> Work on AI, player attack, UI.
+* Duration: 3 weeks.  
+* Team: 2 programmers.  
+> A 3D combat-based game with AI, mostly written in C++ and blueprint for UI and other small parts.
+
+__My work:__  
+AI with unreal Engine behavior trees, player attack, UI.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AxwOHNeTm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## Aether Ego
-> Duration 1 month.
-> Team: 3 programmers and 5 game designers.
-> Work on field of views, Ghost controls / interactions, sound waves feature.
+* Duration 1 month.
+* Team: 3 programmers and 5 game designers.  
+> A 3D infiltration game made with unity.
+
+__My work:__  
+Work on field of views, Ghost controls / interactions, sound waves feature.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R4-oihKdMvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## OpenGL FPS
-> Duration 1 month.
-> Team: 4 programmers.
-> Work on Full engine : Engine architecture, Rendering with openGL, custom math library, custom physics, custom obj loader, ...
+* Duration 1 month.
+* Team: 4 programmers.   
+> A 3D FPS on OpenGL, with custom physic / collisions.  
 
+__My work:__  
+Work on Full engine : Engine architecture, Rendering with openGL, custom math library, custom physics, custom obj loader, ...
+
+<br>
+
+--- 
+
+<br>
+
+__All the projects above, are student projects made at__ [Isart Digital](https://www.isartdigital.com/fr/).
