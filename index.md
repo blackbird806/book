@@ -40,6 +40,18 @@ work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding
 
 ---
 
+## Ball'Nimals
+* Duration: 4 days.
+* Team: 4 artists, 2 programmers, 1 game designer, 1 sound designer.
+> A casual mobile game made with Unity.
+
+__My work:__  
+Implementation of the capture feature, various other small features (pet animals, favourite and eat features, ...), debugging, ... 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B-cegJ96LQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Gladiator
 * Duration: 3 weeks.  
 * Team: 2 programmers.  
