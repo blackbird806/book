@@ -4,7 +4,7 @@
 
 ## TurboEngine
 * Duration: 6 months.  
-* Team: 4 programmers.  
+* Made by: Julien Soysouvanh, Clément Fazilleau, Basile Combet, Grégoire Penon.  
 > A full featured game engine with editor, built with Qt, OpenGL, PhysX, Fmod, ...  
 > Features: C++ scripting with hotReload, lua scripting, 3D spatialized sound support, PBR rendering, particles systems, rigidbodies, project save, ...
 
@@ -42,11 +42,15 @@ work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding
 
 ## Ball'Nimals
 * Duration: 4 days.
-* Team: 4 artists, 2 programmers, 1 game designer, 1 sound designer.
+* Made by:   
+  * Artists: Jeane Plouvenez, Jade Perdrillat, Noémie Dumont, Victor Lopez.  
+  * Programmers: Lucas Forcina, Grégoire Penon.  
+  * Game designers: Stephane Traut.  
+  * Sound designers: Kevin Dedou.  
 > A casual mobile game made with Unity.
 
 __My work:__  
-Implementation of the capture feature, various other small features (pet animals, favourite and eat features, ...), debugging, ... 
+Implementation of the capture feature, various other features (pet animals, favourite and eat features, ...), debugging, ... 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B-cegJ96LQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,7 +58,7 @@ Implementation of the capture feature, various other small features (pet animals
 
 ## Gladiator
 * Duration: 3 weeks.  
-* Team: 2 programmers.  
+* Made by: Alexis Beracochea, Grégoire Penon.  
 > A 3D combat-based game with AI on Unreal Engine 4, mostly written in C++ and blueprint for UI and other small parts.
 
 __My work:__  
@@ -66,7 +70,9 @@ AI with Unreal Engine 4 behavior trees, player attack, UI.
 
 ## Aether Ego
 * Duration 1 month.
-* Team: 3 programmers and 5 game designers.  
+* Made by: 
+  * Programmers: José Chao Catalá, Bryan Kitihoun, Grégoire Penon
+  * Game desiners: Pauline Delcroix, Paul Fougues, Erwan Maupas, Bastien Cruette, Thibault Legouet.  
 > A 3D infiltration game made with Unity.
 
 __My work:__  
@@ -78,11 +84,11 @@ Work on field of views, Ghost controls / interactions, sound waves feature.
 
 ## OpenGL FPS
 * Duration 1 month.
-* Team: 4 programmers.   
+* Made by: José Chao Catalá, Pierre Aumont, Lubin Groussat, Grégoire Penon.   
 > A 3D FPS on OpenGL, with custom physics / collisions.  
 
 __My work:__  
-Work on Full engine : Engine architecture, Rendering with OpenGL, custom math library, custom physics, custom obj loader, ...
+Work on Full engine : Engine architecture, Rendering with OpenGL, custom math library, physics, obj loader, logger, ...
 
 <br>
 
