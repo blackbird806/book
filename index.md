@@ -63,8 +63,8 @@ Implementation of the capture feature, various other features (pet animals, favo
 ## Unity L-System tool
 * Duration: ~ 2 weeks.  
 R&D projects on L-Systems. Creation of an Unity tool that can interpret an L-System language and generate meshes.  
-![LSystem screenshot](Media/Screenshots/Lsystem1.png)  
-![LSystem screenshot](Media/Screenshots/Lsystem2.png)
+![LSystem screenshot](Media/Screenshots/Lsystem1.PNG)  
+![LSystem screenshot](Media/Screenshots/Lsystem2.PNG)
 
 ---
 
