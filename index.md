@@ -1,4 +1,6 @@
-## Student projects - [Personal projects](personal_projects)
+### Student projects - [Personal projects](personal_projects)
+
+<br>
 
 # Student Projects
 

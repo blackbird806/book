@@ -1,5 +1,4 @@
-## [Student projects](index) - Personal projects
-
+### [Student projects](index) - Personal projects
 
 # Personal projects
 
@@ -13,6 +12,8 @@
 > An horror game where you must use your voice to locate your enemy.  
 > Made under 72h for [Quarantine game jam](https://itch.io/jam/gamefreelaejob-jam).  
 > [Winner](https://www.facebook.com/groups/gamefreelaejobs/permalink/2519770484936476/) of Quarantine game jam.
+
+--- 
 
 ## [Little Bird Blog](https://blackbird806.github.io/LittleBirdBlog/)
 
