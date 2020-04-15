@@ -1,4 +1,8 @@
-# Projects
+| Student projects | [Personal projects](personal_projects) |
+|------------------:|:--------------:|
+
+# Student Projects
+
 
 <br>
 
@@ -56,6 +60,13 @@ Implementation of the capture feature, various other features (pet animals, favo
 
 ---
 
+## Unity L-System tool
+* Duration: ~ 2 weeks.  
+R&D projects on L-Systems. Creation of an Unity tool that can interpret an L-System language and generate meshes.
+
+
+---
+
 ## Gladiator
 * Duration: 3 weeks.  
 * Made by: Alexis Beracochea, Grégoire Penon.  
@@ -65,6 +76,7 @@ __My work:__
 AI with Unreal Engine 4 behavior trees, player attack, UI.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AxwOHNeTm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![LSystem screenshot](Media/Screenshots/Lsystem1.png) ![LSystem screenshot](Media/Screenshots/Lsystem2.png)
 
 ---
 
@@ -96,4 +108,6 @@ Work on Full engine : Engine architecture, Rendering with OpenGL, custom math li
 
 <br>
 
-__All the projects above, are student projects made at__ [Isart Digital](https://www.isartdigital.com/fr/).
+__All the projects above, are student projects made at__ [Isart Digital](https://www.isartdigital.com/fr/).  
+
+
