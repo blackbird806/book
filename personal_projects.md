@@ -1,5 +1,7 @@
 ### [Student projects](index) - Personal projects
 
+<br>
+
 # Personal projects
 
 <br>
