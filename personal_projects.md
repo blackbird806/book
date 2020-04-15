@@ -1,7 +1,9 @@
-| [Student projects](index) | Personal projects |
-|------------------:|:--------------:|
+## [Student projects](index) - Personal projects
+
 
 # Personal projects
+
+<br>
 
 ![game screenShoot](Media/Screenshots/creepeat.png)
 ## [Creepeat](https://ironax.itch.io/creepeat)
