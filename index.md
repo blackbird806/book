@@ -9,6 +9,7 @@
 ## TurboEngine
 * Duration: ~6 months.  
 * Made by: Julien Soysouvanh, Clément Fazilleau, Basile Combet, Grégoire Penon.  
+
 > A full featured game engine with editor, built with Qt, OpenGL, PhysX, Fmod, ...  
 > Features: C++ scripting with hotReload, lua scripting, 3D spatialized sound support, PBR rendering, particles systems, rigidbodies, project save, ...
 
@@ -51,8 +52,9 @@ work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding
   * Game designers:  Pauline DELCROIX, Tiphanie TIMORES & Arthur TORDJEMAN.
   * Composer & sound designer: Adam GONCALVES.
   * Programmers: Pierre AUMONT, José manuel CHAO CATALÁ & Gregoire PENON.
+
+> Messy robbery is a 4 players party game made with unity inspired by titles like moving out and overcooked.  
 * Link: [https://isart-digital.itch.io/messyrobbery](https://isart-digital.itch.io/messyrobbery)
-> Messy robbery is a 4 players party game made with unity inspired by titles like moving out and overcooked. 
 
 __My work:__
 Character controller, grab / launch mechanic, dash, physics tweaking,debugging, various removed features.
@@ -66,8 +68,8 @@ Character controller, grab / launch mechanic, dash, physics tweaking,debugging, 
   * Game designers: Max DROULEZ, Adrien BORDES, Grégory RUMEBE, Tony ZHANG.
   * Programmers: Julien SOYSOUVANH, Philippe YI, Grégoire PENON, Clément FAZILLEAU.
 
-* Link: [https://cfaz.itch.io/lambos-tale](https://cfaz.itch.io/lambos-tale)
 > Lambo’s Tale is a 2D platformer made with Unity implementing Metroidvania mechanics. And procedural level generation.  
+* Link: [https://cfaz.itch.io/lambos-tale](https://cfaz.itch.io/lambos-tale)
 
 __My work:__
 Full character controller, character skills, debugging.
@@ -81,6 +83,7 @@ Full character controller, character skills, debugging.
   * Programmers: Lucas Forcina, Grégoire Penon.  
   * Game designers: Stephane Traut.  
   * Sound designers: Kevin Dedou.  
+
 > A casual mobile game made with Unity.
 
 __My work:__  
@@ -101,6 +104,7 @@ R&D projects on L-Systems. Creation of an Unity tool that can interpret an L-Sys
 ## Gladiator
 * Duration: 3 weeks.  
 * Made by: Alexis Beracochea, Grégoire Penon.  
+
 > A 3D combat-based game with AI on Unreal Engine 4, mostly written in C++ and blueprint for UI and other small parts.
 
 __My work:__  
@@ -127,6 +131,7 @@ Work on field of views, Ghost controls / interactions, sound waves feature.
 ## OpenGL FPS
 * Duration 1 month.
 * Made by: José Chao Catalá, Pierre Aumont, Lubin Groussat, Grégoire Penon.   
+
 > A 3D FPS on OpenGL, with custom physics / collisions.  
 
 __My work:__  
