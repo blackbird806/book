@@ -7,7 +7,7 @@
 <br>
 
 ## TurboEngine
-* Duration: 6 months.  
+* Duration: ~6 months.  
 * Made by: Julien Soysouvanh, Clément Fazilleau, Basile Combet, Grégoire Penon.  
 > A full featured game engine with editor, built with Qt, OpenGL, PhysX, Fmod, ...  
 > Features: C++ scripting with hotReload, lua scripting, 3D spatialized sound support, PBR rendering, particles systems, rigidbodies, project save, ...
@@ -43,6 +43,28 @@ work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding
 ![game screenShoot](Media/Screenshots/TurboEngine4.PNG)
 
 ---
+
+## Messy robbery 
+* Duration: ~6 months.
+* Made by: Goldie Bisegna, Calvin Dong, Constance Tran, Pauline Delcroix, Tiphanie Timores, Arthur Tordjeman, Maxime Bienbeau, Grégory Rumebe, Pierre Aumont, José Manuel Chao Català, Adam Goncalves, Grégoire Penon.
+* Link: https://isart-digital.itch.io/messyrobbery
+> Messy robbery is a 4 players party game made with unity inspired by titles like moving out and overcooked. 
+
+__My work:__
+Character controller, grab / launch mechanic, dash, physics tweaking,debugging, various removed features.
+
+---
+
+## Lambo's tale
+* Duration: 4 weeks
+* Made by: Julien Soysouvanh, Philipe Yi, Clément Fazilleau, Max Droulez, Adrien Bordes, Grégory Rumebe, Tony Zhang, Jade Perdrillat, Mélanie L'Huillier, Salomé Lysmaque Chapuis, Grégoire Penon.
+* Link: https://cfaz.itch.io/lambos-tale
+> Lambo’s Tale is a 2D platformer made with Unity implementing Metroidvania mechanics. And procedural level generation.  
+
+__My work:__
+Full character controller, character skills, debugging.
+
+--- 
 
 ## Ball'Nimals
 * Duration: 4 days.
