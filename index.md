@@ -46,7 +46,11 @@ work on general architecture (ecs, RHI, ...), serialization, partial Lua Binding
 
 ## Messy robbery 
 * Duration: ~6 months.
-* Made by: Goldie Bisegna, Calvin Dong, Constance Tran, Pauline Delcroix, Tiphanie Timores, Arthur Tordjeman, Maxime Bienbeau, Grégory Rumebe, Pierre Aumont, José Manuel Chao Català, Adam Goncalves, Grégoire Penon.
+* Made by: 
+  * Artists: Goldie BISEGNA, Calvin DONG & Constance TRAN.
+  * Game designers:  Pauline DELCROIX, Tiphanie TIMORES & Arthur TORDJEMAN.
+  * Composer & sound designer: Adam GONCALVES.
+  * Programmers: Pierre AUMONT, José manuel CHAO CATALÁ & Gregoire PENON.
 * Link: [https://isart-digital.itch.io/messyrobbery](https://isart-digital.itch.io/messyrobbery)
 > Messy robbery is a 4 players party game made with unity inspired by titles like moving out and overcooked. 
 
@@ -57,7 +61,11 @@ Character controller, grab / launch mechanic, dash, physics tweaking,debugging, 
 
 ## Lambo's tale
 * Duration: 4 weeks
-* Made by: Julien Soysouvanh, Philipe Yi, Clément Fazilleau, Max Droulez, Adrien Bordes, Grégory Rumebe, Tony Zhang, Jade Perdrillat, Mélanie L'Huillier, Salomé Lysmaque Chapuis, Grégoire Penon.
+* Made by: 
+  * Artists: Jade PERDRILLAT, Mélanie L'HUILLIER, Salomé LYSIMAQUE CHAPUIS.
+  * Game designers: Max DROULEZ, Adrien BORDES, Grégory RUMEBE, Tony ZHANG.
+  * Programmers: Julien SOYSOUVANH, Philippe YI, Grégoire PENON, Clément FAZILLEAU.
+
 * Link: [https://cfaz.itch.io/lambos-tale](https://cfaz.itch.io/lambos-tale)
 > Lambo’s Tale is a 2D platformer made with Unity implementing Metroidvania mechanics. And procedural level generation.  
 
@@ -105,7 +113,7 @@ AI with Unreal Engine 4 behavior trees, player attack, UI.
 ## Aether Ego
 * Duration 1 month.
 * Made by: 
-  * Programmers: José Chao Catalá, Bryan Kitihoun, Grégoire Penon
+  * Programmers: José Chao Catalá, Bryan Kitihoun, Grégoire Penon.
   * Game desiners: Pauline Delcroix, Paul Fougues, Erwan Maupas, Bastien Cruette, Thibault Legouet.  
 > A 3D infiltration game made with Unity.
 
